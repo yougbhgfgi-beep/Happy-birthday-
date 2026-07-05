@@ -1,45 +1,42 @@
 {
   "name": "فستق 🤍 — قصة حبنا الأبدية",
   "short_name": "فستق 🤍",
-  "description": "موقع عيد ميلاد فستق — قصة حبنا وذكرياتنا الجميلة",
-  "id": "/",
-  "start_url": "/",
-  "scope": "/",
+  "description": "موقع عيد ميلاد فستق — حكاية حبنا وذكرياتنا الجميلة",
+  "id": "/Happy-birthday-/",
+  "start_url": "/Happy-birthday-/",
+  "scope": "/Happy-birthday-/",
   "display": "standalone",
-  "display_override": ["window-controls-overlay", "standalone"],
   "background_color": "#0d0508",
   "theme_color": "#f43f5e",
   "orientation": "portrait",
-  "categories": ["lifestyle", "social"],
   "lang": "ar",
   "dir": "rtl",
   "icons": [
     {
-      "src": "./images/icon-192.png",
+      "src": "/Happy-birthday-/images/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./images/icon-512.png",
+      "src": "/Happy-birthday-/images/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./images/icon-192-maskable.png",
+      "src": "/Happy-birthday-/images/icon-192-maskable.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "./images/icon-512-maskable.png",
+      "src": "/Happy-birthday-/images/icon-512-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     }
   ],
-  "screenshots": [],
   "prefer_related_applications": false,
   "related_applications": []
 }
