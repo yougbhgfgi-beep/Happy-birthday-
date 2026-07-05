@@ -1,24 +1,45 @@
 {
-  "name": "قصة حبنا الأبدية",
-  "short_name": "حبنا",
-  "description": "قصة حبنا - تطبيق رومانسي يجمع ذكرياتنا",
-  "start_url": "./",
+  "name": "فستق 🤍 — قصة حبنا الأبدية",
+  "short_name": "فستق 🤍",
+  "description": "موقع عيد ميلاد فستق — قصة حبنا وذكرياتنا الجميلة",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
   "background_color": "#0d0508",
   "theme_color": "#f43f5e",
   "orientation": "portrait",
+  "categories": ["lifestyle", "social"],
+  "lang": "ar",
+  "dir": "rtl",
   "icons": [
     {
-      "src": "./images/icon-heart.svg",
+      "src": "./images/icon-192.png",
       "sizes": "192x192",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "./images/icon-heart.svg",
+      "src": "./images/icon-512.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./images/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./images/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
-  ]
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false,
+  "related_applications": []
 }
