@@ -1,12 +1,12 @@
-const CACHE_NAME = 'love-story-cache-v12'
+const CACHE_NAME = 'love-story-cache-v13'
 const URLS_TO_CACHE = [
   '.',
   './index.html',
   './manifest.json',
   './maze.html',
-  './assets/index-new.js?v=10',
-  './assets/index-DtXZcElU.css?v=8',
-  './assets/birthday-confetti.js?v=2',
+  './assets/index-new.js?v=11',
+  './assets/index-DtXZcElU.css?v=9',
+  './assets/birthday-confetti.js?v=3',
   './images/icon-192.png?v=2',
   './images/icon-512.png?v=2',
   './images/icon-192-maskable.png?v=2',
